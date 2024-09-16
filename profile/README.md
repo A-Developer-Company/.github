@@ -6,5 +6,3 @@ Our organization serves as a community platform to take our startup ideas to rea
 ## Projects
 - **E-commerce store and business management suite**<br>
   Made with Next.js SSR capabilites for a client.
-- **Vendora**<br>
-  A tauri based billing & business management software.
